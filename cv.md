@@ -18,7 +18,7 @@
     * _JavaScript_
     * _Git_
 ## Code examples
-[Codewars](https://codewars.com/users/ThatcheRRR/)
+[Codewars](https://codewars.com/users/ThatcheRRR/completed_solutions)
 ## Experience
     Laboratory works at the university, codewars
 ## Education
