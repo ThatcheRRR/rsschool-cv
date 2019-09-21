@@ -12,6 +12,7 @@
     * _Responsible_
     * _Team worker_
     * _Interested in self improvement_
+    * _Sociable_
 * ## Skills
     * _HTML_
     * _CSS_
