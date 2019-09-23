@@ -56,9 +56,6 @@ a {
 .text {
     font-size: 1.5em;
 }
-li {
-    list-style-position: inside;
-}
 .list p {
     margin: 10px;
 }
