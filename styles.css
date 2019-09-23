@@ -62,3 +62,6 @@ a {
 #contacts p {
     margin: 5px;
 }
+div.list p {
+    display: list-item;
+}
