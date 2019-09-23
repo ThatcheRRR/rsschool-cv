@@ -45,20 +45,16 @@ a {
     font-size: 28px;
     text-decoration: none;
 }
-main img {
+#my-photo {
     width: 180px;
     height: 180px;
     margin: 3px;
     border: 3px solid black;
     border-radius: 50%;
     box-shadow: 15px 5px 15px black;
-    background-clip: content-box;
 }
 .text {
     font-size: 1.5em;
-}
-li {
-    list-style-position: inside;
 }
 .list p {
     margin: 10px;
